@@ -1,0 +1,27 @@
+{
+  "name": "city-sweeper",
+  "version": "1.0.0",
+  "description": "App that will allow for notifications to be sent to users for when their street will be cleaned.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skwarte/city-sweeper.git"
+  },
+  "keywords": [
+    "city",
+    "cleaner",
+    "chicago",
+    "wards",
+    "sweeper",
+    "ticket"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skwarte/city-sweeper/issues"
+  },
+  "homepage": "https://github.com/Skwarte/city-sweeper#readme"
+}
