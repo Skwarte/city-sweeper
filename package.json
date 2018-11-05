@@ -4,7 +4,8 @@
   "description": "App that will allow for notifications to be sent to users for when their street will be cleaned.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -23,5 +24,9 @@
   "bugs": {
     "url": "https://github.com/Skwarte/city-sweeper/issues"
   },
-  "homepage": "https://github.com/Skwarte/city-sweeper#readme"
+  "homepage": "https://github.com/Skwarte/city-sweeper#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
 }
